@@ -1,0 +1,8 @@
+ekstrak semua
+import db_hospital.sql
+akses untuk layar monitor antrian
+http://localhost/minihospital/monitor_antrean.php
+akses untuk petugas
+http://localhost/minihospital/portal_petugas.php
+akses dashboard apm
+http://localhost/minihospital/index.php
